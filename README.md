@@ -68,9 +68,9 @@ Vibe coding is my favorite way to build. I love exploring different LLM models a
 
 ### Tech Stack I Love
 
-![Vue](https://img.shields.io/badge/%20-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/%20-1b1f23?style=for-the-badge&logo=astro&logoColor=white)
-![WordPress](https://img.shields.io/badge/%20-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![VueJS](https://img.shields.io/badge/VUEJS-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/ASTRO-1b1f23?style=for-the-badge&logo=astro&logoColor=white)
+![WordPress](https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### GitHub Stats
 
