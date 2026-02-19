@@ -19,7 +19,7 @@ Hellooo & memes 😄
 
 ### Connect With Me
 
-[![site](https://img.shields.io/badge/%20-0A66C2?style=for-the-badge&logo=webawesome&logoColor=white)](https://talhazahid.com/)
+[![🌐](https://img.shields.io/badge/🌐-talhazahid.com-0A66C2?style=for-the-badge&logoColor=white)](https://talhazahid.com/)
 [![instagram](https://img.shields.io/badge/%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/talha56/)
 [![x](https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/talhazahid56)
 [![whatsapp](https://img.shields.io/badge/%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923213505587)
