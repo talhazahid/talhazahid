@@ -41,6 +41,15 @@ Vibe coding is my favorite way to build. I love exploring different LLM models a
 - [ImageLab](https://imagelab.dev/)  
   Free AI tools to upscale images, remove backgrounds, compress files, and convert formats like PNG, JPG, and WebP.
 
+- [TaqwaPath](https://taqwapath.com/)  
+  A clean Islamic app experience for daily faith needs, including Quran, prayer utilities, and useful reminders in one place.
+
+- [WhatTime](https://whattime.dev/)  
+  Instantly check current time across cities and time zones for quick planning, remote work, and scheduling.
+
+- [Free Audio Books](https://freeaudiobooks.dev/)  
+  Stream and explore a growing library of free audiobooks with a simple, fast player and easy browsing.
+
 ### Figma Plugins
 
 - [MP3 Export To GIF – MP4](https://www.figma.com/community/plugin/1572497390493569231/export-to-gif-mp4)  
