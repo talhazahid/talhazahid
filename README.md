@@ -19,10 +19,9 @@ Hellooo & memes 😄
 
 ### Connect With Me
 
-[![site](https://img.shields.io/badge/%20-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://talhazahid.com/)
+[![site](https://img.shields.io/badge/%20-0A66C2?style=for-the-badge&logo=globe&logoColor=white)](https://talhazahid.com/)
 [![instagram](https://img.shields.io/badge/%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/talha56/)
 [![x](https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/talhazahid56)
-[![github](https://img.shields.io/badge/%20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/talhazahid)
 [![whatsapp](https://img.shields.io/badge/%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923213505587)
 
 Vibe coding is my favorite way to build. I love exploring different LLM models and turning ideas into real, usable tools that people can enjoy right away. I'm always experimenting, shipping free apps, websites, and Figma plugins, and refining them based on how the community uses them.
