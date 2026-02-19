@@ -4,9 +4,7 @@
 
 ### About Me
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
+<img align="right" width="330" src="https://raw.githubusercontent.com/talhazahid/talhaz/main/code.gif" alt="Code GIF" />
 
 I'm Talha, a Product Designer who loves building meaningful products that bring people together.
 
@@ -17,14 +15,7 @@ I like audiobooks and love gaming, especially **Dota 2**, **Age of Empires 4**, 
 Hellooo & memes 😄  
 **WhatsApp:** [+92 321 3505587](https://wa.me/923213505587)
 
-</td>
-    <td width="38%" valign="top" align="right">
-
-![Code GIF](https://raw.githubusercontent.com/talhazahid/talhaz/main/code.gif)
-
-</td>
-  </tr>
-</table>
+<br clear="right" />
 
 ### Connect With Me
 
