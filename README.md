@@ -31,9 +31,6 @@ Vibe coding is my favorite way to build. I love exploring different LLM models a
 - [MP3 Audio Converter](https://mp3audioconverter.com/)  
   Convert any audio to MP3 fast. Supports 10+ formats and extracts audio from videos like MP4, MOV, AVI instantly.
 
-- [SaveVizeoz](https://savevideoz.com/)  
-  Download HD videos from top social platforms in a few clicks. Clean, quick, and works smoothly on mobile too.
-
 - [Speed Testing](https://speedtesting.dev/)  
   Measure speed, jitter, and packet loss accurately. Also check DNS propagation, detect NAT type, and see your IP instantly.
 
