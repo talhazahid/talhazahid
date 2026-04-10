@@ -43,8 +43,8 @@ Vibe coding is my favorite way to build. I love exploring different LLM models a
 - [WhatTime](https://whattime.dev/)  
   Instantly check current time across cities and time zones for quick planning, remote work, and scheduling.
 
-- [Free Audio Books](https://freeaudiobooks.dev/)  
-  Stream and explore a growing library of free audiobooks with a simple, fast player and easy browsing.
+- [Owl Insight](https://owlinsight.dev/)  
+  Clean Google Analytics dashboard to view all your Sites and Apps in one place with simplified insights,.
 
 ### Figma Plugins
 
